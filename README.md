@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sudo-knight-07
-- 👀 I’m interested in CTFs and Web Development
-- 🌱 I’m currently learning Backend development
+- 👀 I’m interested in Web Development
+- 🌱 I’m learning Backend development
 - 📫 You can contact me at Nightwalker.alon@gmail.com
 
 <!---
